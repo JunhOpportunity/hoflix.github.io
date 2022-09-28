@@ -1,0 +1,39 @@
+{
+  "name": "reactmaster-project-netflix",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@apollo/client": "3.6.9",
+    "@tanstack/react-query": "4.2.3",
+    "@types/recoil": "0.0.9",
+    "@types/styled-components": "5.1.26",
+    "axios": "0.27.2",
+    "framer-motion": "7.2.1",
+    "graphql": "16.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "7.35.0",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "4.0.0",
+    "recoil": "0.7.5",
+    "styled-components": "5.3.5"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
